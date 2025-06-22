@@ -1,0 +1,15 @@
+{
+  "item.craftipiacoins.1p": "1 Penny",
+  "item.craftipiacoins.2p": "2 Pence",
+  "item.craftipiacoins.5p": "5 Pence",
+  "item.craftipiacoins.10p": "10 Pence",
+  "item.craftipiacoins.20p": "20 Pence",
+  "item.craftipiacoins.50p": "50 Pence",
+  "item.craftipiacoins.1_pound": "1 Pound",
+  "item.craftipiacoins.2_pound": "2 Pounds",
+  "item.craftipiacoins.5_pound": "5 Pounds",
+  "item.craftipiacoins.10_pound": "10 Pounds",
+  "item.craftipiacoins.20_pound": "20 Pounds",
+  "item.craftipiacoins.50_pound": "50 Pounds",
+  "itemGroup.craftipiacoins": "Craftipia Coins Tab"
+}
